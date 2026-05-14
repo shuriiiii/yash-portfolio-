@@ -824,7 +824,8 @@ html.reveal-mode [data-scroll] {
   }
   #nameplate {
     padding: 0 1.5rem;
-    font-size: 14px;
+    font-size: 28px;
+    white-space: nowrap;
   }
   #navbar ul {
     padding: 0 1rem;
